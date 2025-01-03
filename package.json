@@ -1,0 +1,21 @@
+{
+  "name": "tejas",
+  "displayName": "tejas",
+  "description": "radiance",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tejas",
+        "uiTheme": "vs",
+        "path": "./themes/tejas-color-theme.json"
+      }
+    ]
+  }
+}
