@@ -17,5 +17,10 @@
         "path": "./themes/tejas-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/aquaticcalf/tejas"
+  },
+  "publisher": "aquaticcalf"
 }

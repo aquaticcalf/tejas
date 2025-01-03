@@ -9,9 +9,11 @@ i took the word "tejas" very seriously (maybe too seriously).
 
 <details>
 <summary>a feast for eyes</summary>
+
 ![](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
+
 </details>
 
 ### 🎯 this theme is perfect if you:
