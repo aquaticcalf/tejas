@@ -2,7 +2,8 @@
   "name": "tejas",
   "displayName": "tejas",
   "description": "radiance",
-  "version": "0.0.1",
+  "icon": "images/tejas.png",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.96.0"
   },
